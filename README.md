@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 thay doi lan 1 html
 thay doi lan 2
 thay doi lan 3
-thay doi lan 5
+thay doi lan 6
